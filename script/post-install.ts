@@ -37,7 +37,11 @@ findYarnVersion(path => {
     process.exit(result.status)
   }
 
-  result = spawnSync('git', ['submodule', 'update', '--recursive'], options)
+  result = spawnSync(
+    'git',
+    ['submodule', 'update', '--recursive', '--init'],
+    options
+  )
 
   if (result.status !== 0) {
     process.exit(result.status)
