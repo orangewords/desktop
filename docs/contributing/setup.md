@@ -6,13 +6,13 @@ You will need to install these tools on your machine:
 
 ### macOS
 
- - [Node.js v8.11.2](https://nodejs.org/dist/v8.11.2/)
+ - [Node.js v8.11.3](https://nodejs.org/dist/v8.11.3/)
  - [Python 2.7](https://www.python.org/downloads/mac-osx/)
  - Xcode and Xcode Command Line Tools (Xcode -> Preferences -> Downloads)
 
 ### Windows
 
- - [Node.js v8.11.2](https://nodejs.org/dist/v8.11.2/)
+ - [Node.js v8.11.3](https://nodejs.org/dist/v8.11.3/)
     - *Make sure you allow the Node.js installer to add node to the PATH.*
  - [Python 2.7](https://www.python.org/downloads/windows/)
     - *Let Python install into the default suggested path (`c:\Python27`), otherwise you'll have
